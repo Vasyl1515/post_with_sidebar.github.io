@@ -1,0 +1,2096 @@
+*{
+	padding: 0;
+	margin: 0;
+	}
+
+
+.basis{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.atlan{
+    font-family: serif;
+    position: relative;
+    left: 90px;
+    width: 180px;
+    font-size:28px; 
+    bottom:10px;
+    color: gray;
+}
+
+.top_panel{
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.20);
+    padding: 5px;
+}
+
+.foto{
+	background: url(water.png) no-repeat center center; 
+	height: 300px;
+	width: 99.9%;
+	border: 1px solid gray;
+	position: relative;
+}
+
+.hog{
+     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.40);
+    display: flex;
+    color: white;
+    font-size: 15px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    font-family: 'Gilda Display', serif;
+}
+.post{
+     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 100px;
+    display: flex;
+    color: white;
+ font-family: 'Gilda Display', serif;
+    justify-content: center;
+    font-size: 45px;
+    height: 60px;
+}
+
+
+.version_1{
+   margin-right:15px;
+    font-size: 15px;
+   color:#adadad;
+
+} 
+
+.version_2{
+ margin-right:15px;
+    font-size: 15px;
+    color:#adadad;
+}
+
+.lord{
+    position: relative;
+    top: 25px;
+    left: 15px;
+    width:60px;
+    height:50px;
+}
+
+.frame{
+margin-right: 200px;
+    display: flex;
+    bottom: 35px;
+    position: relative;
+    width:  610px;
+    left: 400px;  
+}
+
+.box{
+	position: relative;
+	float: right;
+	margin-right: 5px;
+   width: 60px;
+   height: 20px;
+   bottom:55px;
+}
+
+.all{
+	position: relative;
+	max-width: 100%;
+	height: 3180px;
+	background: #dcdcde;
+}
+
+.first_part{
+	float: right;
+	width: 340px;
+	height: 2950px;	
+}
+
+.search{
+	position: relative;
+	width: 80%;
+	height: 30px;
+	padding-top: 50px;
+	padding-left:10px;
+}
+
+.pohuk{
+	width: 100%;
+	height: 30px;
+	padding-left: 10px;
+	background: #dcdcde;
+	border: 2px solid gray; 
+}
+
+.latest{
+	position: relative;
+	padding:10px;
+	padding-top: 20px;
+	width: 85%;
+	color: #2d2d2e;
+	font-family: 'Alegreya Sans', sans-serif;
+}
+
+.foty{
+	position: relative;
+	width: 100%;
+	height: 300px;
+}
+
+.photo{
+	position: relative;
+	padding: 5px;
+	float: right;
+	position: relative;
+	width: 320px;
+	height: 200px;
+}
+
+.SIT{
+	position: relative;
+	width: 190px;
+	height: 180px;	
+	float: right;
+	color: #2d2d2e;
+}
+
+.shruft1{
+	font-family: 'Alegreya Sans', sans-serif;
+}
+
+.shruft2{
+	font-style: italic; 
+}
+
+.line{
+	position: relative;
+	color:#a9a9ab;
+	width: 99%;
+}
+
+.categ{
+	
+	position: relative;
+	width: 280px;
+	color: #2d2d2e;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	font-family: 'Alegreya Sans', sans-serif;
+}
+
+.box2{
+color: #2d2d2e;
+	position: relative;
+	height: 90px;
+	top:20px;
+font-style: italic;
+}
+
+.line2{
+	color:#a9a9ab;
+	padding-left: 15px;
+	margin-top: 20px;
+}
+
+.flick{
+	
+    padding-bottom: 30px;
+    padding-top: 30px;
+    color: #2d2d2e;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+.icons5{
+	width: 100px;
+	height: 100px;
+}
+
+.another_part{
+	position: relative;
+	
+	width: 100%; 
+margin-right:25%; 
+}
+
+.soft{
+	width: 65%;
+	height:99%;
+	}
+
+.main_photo{
+	position: relative;
+	height: 12%;
+	width: 90%;
+	top: 50px;
+	float: right;	
+}
+
+.bor6{
+    height: 100%;
+	width: 100%;
+}
+
+.dignis{
+	position: relative;
+	width: 90%;
+	top:80px;
+	float:right;
+	color: #2d2d2e;
+}
+
+.admin{
+	position: relative;
+	width: 90%;
+	top:80px;
+	float: right;
+	color: #2d2d2e;
+	font-style: italic;
+}
+
+.yong{
+	margin-top:15px;
+	position: relative;
+	width: 90%;
+	top:70px;
+	float: right;
+}
+
+.badges3{
+	color: #2d2d2e;
+padding:3px;
+}
+
+.badges2{
+	position: relative;
+	top:6px;
+	color: gray;
+}
+
+.zmz{
+	display: flex;
+	position: relative;
+	float: right;
+	width: 90%;
+	top:70px;
+	padding-top: 12px;
+	padding-bottom: 10px;
+}
+
+.zmz2{
+	display: flex;
+	position: relative;
+	top:65px;
+	width: 90%;
+	height: 80px;
+}
+
+
+.yong2{
+	margin-top:5px;
+	position: relative;
+	width: 90%;
+	float: right;
+	top:65px;
+}
+
+.main_text{
+	margin-top:30px;
+	position: relative;
+	top:60px;
+	color: #2d2d2e;
+	float:right;
+	width: 90%;
+	font-family: 'EB Garamond', serif;
+}
+
+.korobka{
+	border: 3px solid gray;
+	position: relative;
+	width: 90%;
+	margin-top: 30px;
+	float: right;
+	top:60px;
+}
+
+.bmv{
+	font-family: cursive;
+	padding: 50px;
+	position: relative;
+color: #2d2d2e;
+}
+
+.yong3{
+	position: relative;
+	width: 90%;
+	float:right;
+	top:70px;
+}
+
+.yong4{
+	position: relative;
+	top: 60px;
+	width: 90%;
+	float: right;
+}
+
+.badges{
+	position: relative;
+	left: 45%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	widows: 40px;
+	height: 40px;
+}
+
+
+.coment{
+	position: relative;
+	width: 90%;
+	float: right;
+	height: 220px;
+	top:75px;	
+}
+
+.foto1{
+	width: 140px;
+	margin-top: 10px;
+}
+
+
+.lust{
+	width: 80%;
+	position: relative;
+	float: right;
+	bottom: 115px;
+	height: 200px;
+}
+
+.brain{
+	 font-family: 'Alegreya Sans', sans-serif;
+	color: #2d2d2e;}
+
+	.tec2{
+		font-style: italic;
+	color: #2d2d2e;}
+
+	.tec3{
+		font-family: 'EB Garamond', serif;
+		color: #2d2d2e;
+	}
+
+.rep{
+	float:right;
+	padding-right:5px; 
+	color: #2d2d2e;
+	font-style:italic; 
+}
+
+.strilca{
+	float:right;
+	padding-right:5px; 
+}
+
+.rus{
+	position: relative;
+	top: 20px;
+}
+
+.coment2{
+	position: relative;
+	width: 80%;
+	float: right;
+	height: 250px;
+	top: 100px;	
+}
+
+.lust2{
+	width: 80%;
+	position: relative;
+	float: right;
+	bottom:80px;
+	height: 180px;
+}
+
+.rus1{
+	position: relative;
+	bottom: 105px;
+	width: 99%;
+}
+
+.coment3{
+	
+	position: relative;
+	width: 90%;
+	float: right;
+	top:100px;
+	height: 450px;
+}
+
+.lav{
+	color: #2d2d2e;
+	padding: 5px;
+	font-family: 'Alegreya Sans', sans-serif;
+}
+
+input[name="pan1"]{
+ 	position: relative;
+ 	margin-top: 30px;
+ 	width: 45%;
+ 	height:15%;
+ 	border:3px solid #2d2d2e;
+ 	background:  #dcdcde;
+ 	font-style: italic;
+ }
+
+ input[name="pan2"]{
+position: relative;
+ 	margin-top: 30px;
+ 	width: 45%;
+ 	height:15%;
+ 	float:right;
+border:3px solid #2d2d2e;
+background:  #dcdcde;
+font-style: italic;
+ }
+
+ input[name="pan3"]{
+ 	margin-top: 30px;
+ 	position: relative;
+ 	width: 45%;
+ 	height:15%;
+ 	float:right;
+ 	border:3px solid #2d2d2e;
+ 	background:  #dcdcde;
+ 	font-style: italic;
+ }
+
+ input[name="pan4"]{
+position: relative;
+ 	margin-top: 30px;
+ 	width: 45%;
+ 	height:15%;
+border:3px solid #2d2d2e;
+background: #dcdcde; 
+font-style: italic;	
+ }
+
+ input[name="pan5"]{
+ 	margin-top: 30px;
+ 	width: 100%;
+ 	height:25%;
+ 	border:3px solid #2d2d2e;
+position: relative;
+background:  #dcdcde;
+font-style: italic;
+ }
+
+ .inp2{
+ 	position: relative;
+ 	height: 400px;
+ }
+
+ .sab2{
+ 	background: #505054;
+ 	padding:10px;
+    width: 130px;
+    position:relative;
+    margin-top:20px;
+    color: white;
+ }
+
+ .sab2:hover{
+ 	background: #C0C0C0;
+ 	color: #505054;
+ }
+
+ .rt{
+ 	font-family: 'Alegreya Sans', sans-serif;
+ 	 position: relative;
+    left: 40px;
+ }
+ 
+.black{
+	position: relative;
+	width: 100%;
+	background: #2d2d2e;
+	color:white;
+}
+
+.alan{
+	font-family: 'Assistant', sans-serif;
+	color:white;
+	padding-top: 50px;
+	position: relative;
+	left: 120px;
+	width: 30%;
+}
+
+.tyt{
+	font-family: 'EB Garamond', serif;
+	width: 30%;
+	position: relative;
+	top:50px;
+	left: 70px;
+	color: #85858c;
+	padding-right: 50px;
+}
+
+.studio{
+	font-family: 'Alegreya Sans', sans-serif;
+	margin-top: 30px;
+	color:white;
+}
+
+.wooo{
+	font-family: 'EB Garamond', serif;
+	margin-top: 30px;
+}
+
+.mail{
+	font-family: 'Alegreya Sans', sans-serif;
+	margin-top: 30px;
+	color:white;
+}
+
+ .face1{
+ 	margin-top: 40px;
+ }
+
+ input[name="panel"]{
+ 	position: relative;
+ 	max-width: 45%;
+ 	width: 350px;
+ 	height: 50px;
+ 	background:#2d2d2e;
+ 	float: left;
+ 	border: 2px solid #85858c;
+ 	margin-top: 50px;
+ }
+
+ input[name="pane"]{
+position: relative;
+float: right;
+ 	max-width: 45%;
+ 	width: 350px;
+ 	height: 50px;
+ 	background: #2d2d2e;
+ 	border: 2px solid #85858c;
+margin-top: 50px;
+ }
+
+ input[name="pane1"]{
+position: relative;
+margin-top: 30px;
+ 	max-width: 45%;
+ 	width: 350px;
+ 	height: 50px;
+ 	background: #2d2d2e;
+ 	border: 2px solid #85858c;
+ 	float: left;
+ }
+
+ input[name="pane12"]{
+position: relative;
+ 	max-width: 45%;
+ 	margin-top: 30px;
+ 	width: 350px;
+ 	height: 50px;
+ 	background: #2d2d2e;
+ 	border: 2px solid #85858c;
+ 	float: right;
+ }
+
+ input[name="pane123"]{
+position: relative;
+ 	margin-top: 30px;
+ 	width: 99%;
+ 	height: 100px;
+ 	background: #2d2d2e;
+ 	border: 2px solid #85858c;
+ }
+
+ .inp{
+ 	position: relative;
+ 	float: right;
+ 	bottom: 400px;
+ 	height: 500px;
+ 	width:60%;
+ 	}
+
+ .sab{
+background: #2d2d2e;
+ 	padding:10px;
+    width: 130px;
+    border: 1px solid gray;
+    position:relative;
+    margin-top:20px;
+    color: white;
+ }
+
+ .sab:hover{
+ 	background: #505054;
+ 	color: white;
+ }
+
+ .ooo{
+ 	 position: relative;
+    left: 40px;
+ 	font-family: 'Alegreya Sans', sans-serif;
+ 	}
+
+ 	.yong9{
+ 		position: relative;
+ 		bottom: 400px;
+ 		width: 99.8%;
+ 	}
+
+ 	.after{
+ 	color:#85858c;
+ 	position: relative;
+ 	left:70px;
+ 	bottom: 400px;
+ 	width: 250px;
+ 	margin-top: 30px;
+ }
+
+
+
+ @media(min-width: 768px) and (max-width: 992px){
+	
+	.basis{
+	max-width: 100%;
+	max-height: 100%;	
+}
+
+.foto{
+    border: 1px solid gray;
+    background: url(water.png) no-repeat center center;
+     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    height: 300px;
+    width: 99.7%;
+    position: relative;
+}
+
+    .top_panel{
+
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    } 
+
+.lord{
+    position: relative;
+    top: 15px;
+    left: 5px;
+    width:40px;
+    height:30px;
+}
+
+.frame{
+
+    display: flex;
+    list-style: none;
+    bottom: 27px;
+    position: relative;
+    width: 500px;
+    left: 200px;
+}
+
+.atlan{
+    position: relative;
+    left: 50px;
+    font-size:18px;
+    width: 110px;
+}
+
+.version_1{
+    font-size: 11px;
+    position: relative;
+    color:#adadad;
+    
+    
+} 
+.version_2{
+    font-size: 11px;
+    position: relative; 
+    color:#adadad;
+}
+.box{
+    
+    position: relative;
+    bottom: 43px;
+    
+
+    
+
+}
+.hog{
+     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.40);
+    color: white;
+    font-size: 16px;
+    
+}
+.post{
+     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 50px;
+    padding-top:20px; 
+    color: white;
+    font-size: 28px;
+}
+
+
+
+.all{
+	position: relative;
+	width: 100%;
+	height:4050px;
+	background: #dcdcde;
+
+}
+
+.first_part{
+	float: right;
+	width: 40%;
+	height: 2950px;	
+}
+
+.search{
+	position: relative;
+	width: 60%;
+	height: 20px;
+	padding-top: 50px;
+}
+
+.latest{
+	font-size:20px; 
+	position: relative;
+	padding:10px;
+	padding-top: 20px;
+	width: 80%;
+	color: #2d2d2e;
+	
+}
+
+.foty{
+	position: relative;
+	width: 100%;
+	height: 300px;
+	
+}
+
+.photo{
+	position: relative;
+	padding: 5px;
+	position: relative;
+	width: 285px;
+	height: 200px;
+	
+}
+
+.bor{
+	width: 100px;
+	height: 100px;
+	
+}
+.SIT{
+	font-size:15px; 
+	position: relative;
+	width: 170px;
+	height: 175px;	
+	float: right;
+	color: #2d2d2e;
+	}
+.line{
+
+	color:#a9a9ab;
+}
+.categ{
+	
+	position: relative;
+	width: 280px;
+	color: #2d2d2e;
+	padding-bottom: 30px;
+	left: 10px;
+	font-size:15px; 
+	
+	
+}
+.box2{
+color: #2d2d2e;
+	position: relative;
+	height: 80px;
+	font-size:15px;
+	
+
+}
+.line2{
+	color:#a9a9ab;
+	padding-left: 15px;
+}
+
+.flick{
+	font-size:22px;
+    padding-bottom: 30px;
+    color: #2d2d2e;
+}
+.fonts{
+	margin: 0px:40px:40px:40px;
+
+}
+.icons5{
+	padding: 5px;
+	width: 90px;
+	height: 90px;
+}
+.another_part{
+
+	position: relative;
+	height: 100%;
+	width: 60%;
+	
+
+	
+
+}
+.soft{
+	width: 99%;
+	height:2450px;
+	}
+
+.main_photo{
+	
+	background: url(city_new_york_manhattan_night_58109_3840x2160.jpg) no-repeat center center;
+	 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	position: relative;
+	height: 220px;
+	width: 415px;
+	top: 50px;
+	
+	
+}
+.bor6{
+    height: 220px;
+	width: 415px;
+}
+.dignis{
+	font-size:20px; 
+	position: relative;
+	margin-top: 20px;
+	width: 415px;
+	height: 40px;
+	top:60px;
+	color: #2d2d2e;
+}
+
+.admin{
+	font-size:15px;
+	position: relative;
+	width: 415px;
+	top:65px;
+	color: #2d2d2e;
+}
+
+
+.yong{
+	margin-top:15px;
+	position: relative;
+	top:65px;
+	width: 415px;
+}
+
+.yong2{margin-top:15px;
+	position: relative;
+	top:70px;
+	width:415px;
+	}
+
+
+
+.badges3{
+	color: #2d2d2e;
+padding:3px;
+}
+
+.badges2{
+	position: relative;
+	top:6px;
+	color: gray;
+}
+
+
+.zmz{
+	position: relative;
+	float: right;
+	top:75px;
+	width: 415px;
+}
+
+.zmz2{
+	display: flex;
+	position: relative;
+	float: right;
+	top:20px;
+	width: 415px;
+	height: 80px;
+}
+
+
+
+.main_text{
+	top:60px;
+	position: relative;
+	color: #2d2d2e;
+	float: right;
+	width: 415px;
+	
+	
+	
+	
+}
+.korobka{
+	border: 3px solid gray;
+	position: relative;
+	width: 415px;
+	top:80px;
+	float: right;
+	
+
+}
+.bmv{
+	font-family: cursive;
+	padding: 30px;
+	position: relative;
+color: #2d2d2e;
+}
+.fade{
+	position: relative;
+	top:60px;
+	height: 130px;
+	width: 415px;
+	float: right;
+}
+
+.yong3{
+	position: relative;
+	width: 100%;
+	top:10px;
+	
+
+}
+
+.yong4{
+	position: relative;
+	top:30px;
+	width: 100%;
+	
+
+}
+.badges{
+	position: relative;
+	left: 80px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 40px;
+	height: 40px;
+}
+.fade2{
+	position: relative;
+	top:60px;
+	height: 130px;
+	width: 415px;
+	float: right;
+}
+
+.coment{
+	
+	position: relative;
+	width: 415px;
+	
+	height: 345px;
+	margin-top: 40px;
+	float: right;
+	
+}
+.foto1{
+	width: 95px;
+}
+
+
+.lust{
+	width: 330px;
+	position: relative;
+float: right;
+	bottom:110px;
+	height: 275px;
+	
+	
+}
+
+.bor2{
+	width: 90px;
+	height: 90px;
+}
+
+
+.brain{
+	padding: 40px;
+	color: #2d2d2e;
+	
+
+}
+
+.rep{
+	float:right;
+	padding-right:5px; 
+	color: #2d2d2e;
+}
+
+.strilca{
+	float:right;
+	padding-right:5px; 
+	top: 50px;
+	
+	
+}
+
+.rus{
+	position: relative;
+	top: 10px;
+
+
+	
+}
+
+.coment2{
+	
+	position: relative;
+	width: 415px;
+	float: right;
+	height: 345px;
+	
+	margin-top: 35px;
+
+}
+
+.lust2{
+	width: 340px;
+	position: relative;
+	float: right;
+	bottom:110px;
+	height: 275px;
+	
+	
+}
+
+.rus1{
+	position: relative;
+	bottom:50px;
+	
+}
+
+.coment3{
+	
+	position: relative;
+	width: 415px;
+	float: right;
+	height: 450px;
+	margin-top: 15px;
+	
+
+}
+
+.lav{
+	color: #2d2d2e;
+	padding: 5px;
+}
+input[name="pan1"]{
+ 	position: relative;
+ 	margin-top: 30px;
+ 	width: 45%;
+ 	height:10%;
+ 	border:3px solid #2d2d2e;
+ 	background:  #dcdcde;
+
+ }
+ input[name="pan2"]{
+position: relative;
+ 	margin-top: 30px;
+ 	width: 45%;
+ 	height:10%;
+ 	float:right;
+border:3px solid #2d2d2e;
+background:  #dcdcde;
+
+ }
+ input[name="pan3"]{
+ 	margin-top: 30px;
+ 	position: relative;
+ 	width: 45%;
+ 	height:10%;
+ 	float:left;
+ 	border:3px solid #2d2d2e;
+ 	background:  #dcdcde;
+ }
+
+ input[name="pan4"]{
+position: relative;
+ 	margin-top: 30px;
+ 	width: 45%;
+ 	height:10%;
+ 	float:right;
+border:3px solid #2d2d2e;
+background: #dcdcde; 	
+
+ }
+ input[name="pan5"]{
+ 	margin-top: 30px;
+ 	width: 100%;
+ 	height:20%;
+ 	border:3px solid #2d2d2e;
+position: relative;
+background:  #dcdcde;
+ 
+ }
+ .inp2{
+ 	position: relative;
+ 	height: 500px;
+ 	
+ 	
+ 	
+
+ }
+ .sab{
+background: #2d2d2e;
+ 	padding:10px;
+    width: 100px;
+    height: 15px;
+    border: 1px solid gray;
+    position:relative;
+    margin-top:20px;
+    color: white;
+ }
+ .sab:hover{
+ 	background: #505054;
+ 	color: white;
+
+ }
+ .rt{
+ 	font-family: 'Alegreya Sans', sans-serif;
+ 	 position: relative;
+    left: 25px;
+
+ 	
+ }
+ 
+ 
+
+.black{
+	position: relative;
+	
+	width: 100%;
+	background: #2d2d2e;
+    top:0px;
+	
+}
+.alan{
+	color:white;
+	padding-top: 50px;
+	position: relative;
+	left: 80px;
+	width: 35%;
+}
+.tyt{
+	width: 30%;
+	position: relative;
+	top:50px;
+	left: 70px;
+	color: #85858c;
+	padding-right: 50px;
+
+}
+.studio{
+	margin-top: 30px;
+	color:white;
+}
+.wooo{
+	margin-top: 30px;
+}
+.mail{
+	margin-top: 30px;
+	color:white;
+}
+ .face1{
+ 	margin-top: 40px;
+ }
+
+  
+ 	
+ 
+ input[name="panel"]{
+ 	position: relative;
+ 	width: 200px;
+ 	height: 50px;
+ 	background:#2d2d2e;
+ 	border: 2px solid #85858c;
+
+
+ }
+ input[name="pane"]{
+position: relative;
+ 	width: 200px;
+ 	height: 50px;
+ 	background: #2d2d2e;
+ 	border: 2px solid #85858c;
+
+ }
+ input[name="pane1"]{
+position: relative;
+ 	width: 200px;
+ 	height: 50px;
+ 	background: #2d2d2e;
+ 	border: 2px solid #85858c;
+
+ }
+ input[name="pane12"]{
+position: relative;
+ 	
+ 	width: 200px;
+ 	height: 50px;
+ 	background: #2d2d2e;
+ 	border: 2px solid #85858c;
+
+ }
+ input[name="pane123"]{
+position: relative;
+ 	width: 400px;
+ 	height: 100px;
+ 	background: #2d2d2e;
+ 	border: 2px solid #85858c;
+
+ }
+ .inp{
+ 	position: relative;
+ 	padding-left: 50px;
+ 	height: 400px;
+ 	width: 400px;
+ 	bottom: 470px;
+ 	float: right;
+ 	
+
+ 	
+ 	
+ 	
+ 	
+
+ }
+ .sab2{
+ 	background: #505054;
+ 	padding:10px;
+    width: 100px;
+    height: 15px;
+    position:relative;
+    margin-top:20px;
+    color: white;
+ }
+ .sab2:hover{
+ 	background: #C0C0C0;
+ 	color: #505054;
+
+ }
+ .ooo{
+ 	 position: relative;
+    left: 25px;
+ 	font-family: 'Alegreya Sans', sans-serif;
+ 	}
+
+ 	.yong9{
+ 		position: relative;
+ 		bottom:300px;
+ 		
+ 	}
+
+ 	.after{
+ 	color:#85858c;
+ 	position: relative;
+ 	left: 70px;
+ 	width: 250px;
+ 	margin-top: 30px;
+ 	bottom: 300px;
+
+ }
+
+}
+
+@media(min-width: 400px) and (max-width: 768px){
+
+
+
+.basis{
+    max-width: 100%;
+    max-height: 100%;
+
+}
+.foto{
+    border: 1px solid gray;
+    background: url(water.png) no-repeat center center;
+     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    height: 250px;
+    width: 99.6%;
+    position: relative;
+
+
+
+}
+
+    .top_panel{
+
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 80px;
+
+    } 
+
+
+    .pov{
+    display: flex;
+    font-size: 10px;
+    padding: 5px;
+    }
+    .lord{
+    position: relative;
+    left: 45px;
+    top:10px;
+    width: 40px;
+    height: 30px;
+
+}
+
+.frame{
+
+      display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 130px;
+    bottom: 50px;
+    width: 305px;
+    height: 100px;
+    
+
+
+}
+.version_1{
+    position: relative;
+    bottom: 30px;
+    left: 120px;
+ font-size: 11px;
+    
+    
+    
+
+}
+.version_2{
+      position: relative;
+    padding: 5px;
+    right: 130px;
+    font-size: 11px;
+    
+}
+
+.atlan{
+    position: relative;
+    left: 15px;
+    top:10px;
+    font-size:17px;
+    width: 105px;
+
+}
+
+
+.box{
+    float: right;
+    position: relative;
+    display: flex;
+ left: 13px;
+    bottom: 100px;
+    
+}
+
+
+.hog{
+     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.40);
+    display: flex;
+    color: white;
+    font-size: 15px;
+    position: relative;
+}
+.post{
+	position: relative;
+     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 70px;
+    left: 30px;
+    color: white;
+    font-size: 24px;
+    height: 40px;
+}
+
+
+.book{
+    width: 15px;
+    height: 15px;
+}
+
+
+.all{
+    position: relative;
+    width: 100%;
+    height: 3500px;
+    background: #dcdcde;
+
+
+}
+.first_part{
+	float: right;
+	width: 50%;
+	height: 2600px;
+	
+	
+
+	
+}
+
+.search{
+	
+	position: relative;
+	width: 80%;
+	height: 20px;
+	padding-top: 50px;
+}
+
+.latest{
+	font-size: 20px;
+	position: relative;
+	padding:10px;
+	padding-top: 20px;
+	width: 85%;
+	color: #2d2d2e;
+}
+
+.foty{
+	font-size: 12px;
+	position: relative;
+	width: 100%;
+	height: 200px;
+	
+}
+.bor{
+	width: 85px;
+	height: 85px;
+}
+
+.photo{
+	position: relative;
+	padding: 5px;
+	position: relative;
+	width: 220px;
+	height: 150px;
+	
+	
+}
+.SIT{
+	position: relative;
+	width: 125px;
+	height: 140px;	
+	float: right;
+	color: #2d2d2e;
+	
+	
+}
+.home{
+	font-size: 12px;
+	width: 190px;
+	float: right;
+}
+.line{
+	width: 99%;
+	color:#a9a9ab;
+	
+}
+.categ{
+	font-size: 15px;
+	position: relative;
+	width: 170px;
+	color: #2d2d2e;
+	padding-bottom: 30px;
+	left: 10px;
+	
+	
+}
+.box2{
+color: #2d2d2e;
+	position: relative;
+	height: 100px;
+	
+
+}
+.line2{
+	color:#a9a9ab;
+	padding-left: 15px;
+	width: 90%;
+	margin-top:20px; 
+	
+}
+
+.flick{
+	font-size: 20px;
+    padding-bottom: 30px;
+    color: #2d2d2e;
+}
+.galary{
+	width: 190px;
+	
+
+}
+
+.icons5{
+	width: 70px;
+	height: 70px;
+
+}
+
+.another_part{
+
+	position: relative;
+	height: 100%;
+	width: 50%;
+
+
+   
+
+	
+
+}
+.soft{
+	width: 94.7%;
+	height:3290px;
+	}
+
+.main_photo{
+	background: url(city_new_york_manhattan_night_58109_3840x2160.jpg) no-repeat center center;
+	 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	position: relative;
+	height: 150px;
+	width: 190px;
+	top: 20px;
+	
+}
+.bor6{
+	float: right;
+    height: 150px;
+	width: 190px;
+}
+
+.dignis{
+	font-size: 12px;
+	position: relative;
+	float: right;
+	top:30px;
+	width: 190px;
+	color: #2d2d2e;
+}
+
+.admin{
+	font-size: 9px;
+	position: relative;
+	float: right;
+	width: 190px;
+	height: 10px;
+	color: #2d2d2e;
+	top:40px;
+	
+
+}
+.yong{
+	margin-top:15px;
+	position: relative;
+	width: 190px;
+}
+
+.badges3{
+
+	color: #2d2d2e;
+padding:3px;
+width: 12px;
+height: 12px;
+}
+.badges2{
+	position: relative;
+	top:4px;
+	color: gray;
+}
+.fade1{
+	position: relative;
+	width: 190px;
+	float: right;
+	bottom:40px;
+	
+}
+
+.zmz{
+	font-size: 12px;
+	display: flex;
+	position: relative;
+	float: right;
+	width: 190px;
+	top:70px;
+
+	
+	
+	
+}
+
+
+
+
+
+.yong2{
+	margin-top:5px;
+	position: relative;
+	float: right;
+	width: 190px;
+	top:65px;
+	
+}
+.main_text{
+	font-size: 12px;
+	margin-top:15px;
+	position: relative;
+	color: #2d2d2e;
+	float: right;
+	width: 190px;
+	top:20px;
+}
+.korobka{
+	font-size:12px; 
+	border: 3px solid gray;
+	position: relative;
+	width: 190px;
+	height: 80px
+	margin-bottom: 10px;
+	float: right;
+	top: 20px;
+	
+	
+
+}
+.bmv{
+	font-family: cursive;
+	padding: 20px;
+	position: relative;
+color: #2d2d2e;
+}
+.fade2{
+	width: 190px;
+	height: 120px;
+	float: right;
+	
+}
+.zmz2{
+	width: 190px;
+	height: 60px;
+	top:30px;
+
+}
+.yong3{
+    float: right;
+	position: relative;
+	width: 190px;
+	top:30px;
+	}
+.yong4{
+	float: right;
+	position: relative;
+	width: 190px;
+	top:30px;
+	
+
+	
+	
+}
+
+.badges{
+	position: relative;
+	left: 30px;
+	width: 25px;
+	height: 25px;
+	
+
+	
+}
+
+.coment{
+	font-size: 12px;
+	position: relative;
+	width: 190px;
+	top:40px;
+	height: 300px;
+	
+	float: right;
+
+	
+}
+.bor2{
+	width: 60px;
+	height: 60px;
+}
+.foto1{
+	width: 120px;
+}
+
+
+.lust{
+	width: 100%;
+	position: relative;
+	top:10px;
+	height: 215px;
+	
+	
+	
+}
+
+.brain{
+	padding: 10px;
+	color: #2d2d2e;
+	
+
+}
+
+.rep{
+	float:right;
+	padding-right:5px; 
+	color: #2d2d2e;
+}
+
+.strilca{
+	float:right;
+	padding-right:5px; 
+	top: 50px;
+	
+	
+}
+
+.rus{
+	position: relative;
+	top: 20px;
+
+	
+}
+
+.coment2{
+	
+	font-size: 12px;
+	position: relative;
+	width: 190px;
+	top: 100px;
+	height: 340px;
+	float: right;
+	
+
+}
+
+.lust2{
+	width: 100%;
+	position: relative;
+	top:10px;
+	height: 215px;
+	
+	
+}
+
+.rus1{
+	
+	width: 100%;
+	top: 30px;
+	
+	
+}
+
+.coment3{
+	
+	position: relative;
+	width: 190px;
+	float: right;
+	height: 330px;
+	margin-top: 15px;
+	top:110px;
+}
+
+.lav{
+	color: #2d2d2e;
+	
+}
+
+input[name="pan1"]{
+ 	position: relative;
+ 	margin-top: 20px;
+ 	width: 45%;
+ 	height:5%;
+ 	border:3px solid #2d2d2e;
+ 	background:  #dcdcde;
+
+ }
+ input[name="pan2"]{
+position: relative;
+ 	margin-top: 20px;
+ 	width: 45%;
+ 	height:5%;
+ 	float:right;
+border:3px solid #2d2d2e;
+background:  #dcdcde;
+
+ }
+ input[name="pan3"]{
+ 	margin-top: 30px;
+ 	position: relative;
+ 	width: 45%;
+ 	height:5%;
+ 	float:left;
+ 	border:3px solid #2d2d2e;
+ 	background:  #dcdcde;
+ }
+
+ input[name="pan4"]{
+position: relative;
+ 	margin-top: 30px;
+ 	width: 45%;
+ 	height:5%;
+ 	float:right;
+border:3px solid #2d2d2e;
+background: #dcdcde; 	
+
+ }
+ input[name="pan5"]{
+ 	margin-top: 30px;
+ 	width: 99%;
+ 	height:15%;
+ 	border:3px solid #2d2d2e;
+position: relative;
+background:  #dcdcde;
+ 
+ }
+ .inp2{
+ 	position: relative;
+ 	height: 280px;
+ 	
+ 	
+ 	
+
+ }
+ .sab{
+background: #2d2d2e;
+ 	padding:10px;
+    width: 70px;
+    height: 12px;
+    border: 1px solid gray;
+    position:relative;
+    margin-top:15px;
+    color: white;
+ }
+ .sab:hover{
+ 	background: #505054;
+ 	color: white;
+
+ }
+ .rt{
+ 	font-family: 'Alegreya Sans', sans-serif;
+ 	 position: relative;
+    left: 13px;
+    font-size: 13px;
+
+ 	
+ }
+
+ .black{
+	position: relative;
+	width: 100%;
+	background: #2d2d2e;
+
+	
+   
+	
+}
+.alan{
+	color:white;
+	padding-top: 50px;
+	position: relative;
+	left: 50px;
+	width: 35%;
+	font-size: 25px;
+	
+
+}
+.tyt{
+	width: 200px;
+	position: relative;
+	top:20px;
+	left: 40px;
+	color: #85858c;
+	font-size: 15px;
+
+
+	
+
+}
+.studio{
+	margin-top: 30px;
+	color:white;
+
+}
+.wooo{
+	margin-top: 30px;
+
+}
+.mail{
+	margin-top: 30px;
+	color:white;
+
+}
+ .face1{
+ 	margin-top: 40px;
+
+ 	
+ }
+
+  
+ 	
+ 
+ input[name="panel"]{
+ 	position: relative;
+ 	width: 105px;
+ 	height: 30px;
+ 	background:#2d2d2e;
+ 	 top:30px;
+ 	border: 2px solid #85858c;
+ 	float: left;
+
+
+ }
+ input[name="pane"]{
+position: relative;
+margin-right: 5px;
+ 	width: 105px;
+ 	height: 30px;
+ 	background: #2d2d2e;
+ 	 top:30px;
+ 	border: 2px solid #85858c;
+ 	float: right;
+
+ }
+ input[name="pane1"]{
+position: relative;
+ 	width: 105px;
+ 	height: 30px;
+ 	background: #2d2d2e;
+ 	top:60px;
+ 	border: 2px solid #85858c;
+ 	float: left;
+
+ }
+ input[name="pane12"]{
+position: relative;
+ 	margin-right: 5px;
+ 	width: 105px;
+ 	height: 30px;
+ 	background: #2d2d2e;
+ 	top: 60px;
+ 	border: 2px solid #85858c;
+ 	float: right;
+
+ }
+ input[name="pane123"]{
+position: relative;
+ 	width: 96%;
+ 	height: 60px;
+ 	background: #2d2d2e;
+ 	top:90px;
+ 	border: 2px solid #85858c;
+
+ }
+ .inp{
+ 	position: relative;
+ 	
+ 	height: 500px;
+ 	width: 230px;
+ 	bottom: 520px;
+ 	float: right;
+
+ 	
+ 	
+ 	
+ 	
+ 	
+
+ }
+ .sab2{
+ 	background: #505054;
+ 	padding:10px;
+    width: 70px;
+    height: 12px;
+    position:relative;
+    margin-top:100px;
+    color: white;
+ }
+ .sab2:hover{
+ 	background: #C0C0C0;
+ 	color: #505054;
+
+ }
+ .ooo{
+ 	 position: relative;
+    left: 15px;
+    font-size: 13px;
+ 	font-family: 'Alegreya Sans', sans-serif;
+ 	}
+
+ 	.yong9{
+ 		position: relative;
+ 		bottom: 450px;
+ 		width: 99%;
+ 		
+
+ 		
+ 	}
+
+ 	.after{
+ 	color:#85858c;
+ 	position: relative;
+ 	left: 30px;
+ 	width: 250px;
+ 	bottom: 420px;
+ 	
+ 	
+ 	
+
+ }
+
+
+
+
+}
+
+
+ 
+
+
+
+	
+
+	
+
+
